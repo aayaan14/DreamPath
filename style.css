@@ -1,0 +1,29 @@
+
+
+#submit{
+    padding: auto;
+    /* background-color: white; */
+    margin: 10;
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size : 22 ;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    font-size: 50;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#submit{
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+}
+
+.dropdown{
+    padding: ;
+}
